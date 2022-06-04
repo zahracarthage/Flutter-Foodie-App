@@ -27,7 +27,7 @@ class Food{
   {
     return [
       Food(
-        'assets/images/dish1.jpeg',
+        'assets/images/dish1.png',
         'No1. in Sales',
         'Soba Soup',
         '50 min',
@@ -37,24 +37,24 @@ class Food{
         0,
         [
           {
-            'Noodle' : 'assets/images/noodles.jpeg',
+            'Noodle' : 'assets/images/noodles.png',
           },
           {
-            'Shrimp' : 'assets/images/shrimp.jpeg',
+            'Shrimp' : 'assets/images/shrimp.png',
           },
           {
-            'Scallion' : 'assets/images/Scallion.jpeg',
+            'Scallion' : 'assets/images/Scallion.png',
           },
           {
-            'Eggs' : 'assets/images/eggs.jpeg',
+            'Eggs' : 'assets/images/eggs.png',
           },
         ],
-        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix',
+        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat ',
         highlight : true,
          ),
          Food(
         'assets/images/dish2.jpeg',
-        'No1. in Sales',
+        'Highly Recommand',
         'Soba Soup',
         '50 min',
         4.8,
@@ -63,20 +63,20 @@ class Food{
         0,
         [
           {
-            'Noodle' : 'assets/images/noodles.jpeg',
+            'Noodle' : 'assets/images/noodles.png',
           },
           {
-            'Shrimp' : 'assets/images/shrimp.jpeg',
+            'Shrimp' : 'assets/images/shrimp.png',
           },
           {
-            'Scallion' : 'assets/images/Scallion.jpeg',
+            'Scallion' : 'assets/images/Scallion.png',
           },
           {
-            'Eggs' : 'assets/images/eggs.jpeg',
+            'Eggs' : 'assets/images/eggs.png',
           },
         ],
-        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix',
-        highlight : true,
+        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
+        highlight : false,
          ),
     ];
   }
@@ -87,7 +87,7 @@ class Food{
     return [
       Food(
         'assets/images/dish3.jpeg',
-        'No1. in Sales',
+        'Low fat',
         'Soba Soup',
         '50 min',
         4.8,
@@ -96,20 +96,20 @@ class Food{
         0,
         [
           {
-            'Noodle' : 'assets/images/noodles.jpeg',
+            'Noodle' : 'assets/images/noodles.png',
           },
           {
-            'Shrimp' : 'assets/images/shrimp.jpeg',
+            'Shrimp' : 'assets/images/shrimp.png',
           },
           {
-            'Scallion' : 'assets/images/Scallion.jpeg',
+            'Scallion' : 'assets/images/Scallion.png',
           },
           {
-            'Eggs' : 'assets/images/eggs.jpeg',
+            'Eggs' : 'assets/images/eggs.png',
           },
         ],
-        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix',
-        highlight : true,
+        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
+        highlight : false,
          ),
          Food(
         'assets/images/dish4.jpeg',
@@ -122,20 +122,20 @@ class Food{
         0,
         [
           {
-            'Noodle' : 'assets/images/noodles.jpeg',
+            'Noodle' : 'assets/images/noodles.png',
           },
           {
-            'Shrimp' : 'assets/images/shrimp.jpeg',
+            'Shrimp' : 'assets/images/shrimp.png',
           },
           {
-            'Scallion' : 'assets/images/Scallion.jpeg',
+            'Scallion' : 'assets/images/Scallion.png',
           },
           {
-            'Eggs' : 'assets/images/eggs.jpeg',
+            'Eggs' : 'assets/images/eggs.png',
           },
         ],
-        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix',
-        highlight : true,
+        'Simply put, ramen in Japanese noodles with a bit of scallion and eggs and mix,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',
+        highlight : false,
          ),
     ];
   }
