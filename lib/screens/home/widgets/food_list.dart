@@ -39,7 +39,6 @@ FoodList(this.selected, this.callback, this.restaurant);
                 style: TextStyle(
                   fontWeight: FontWeight.bold
                 ),
-
             ),
            ),
           ),
